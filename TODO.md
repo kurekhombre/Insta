@@ -9,3 +9,4 @@
 9. Edit profile (remove required fields and avatar upload issue)
 10. Black theme works only in index.html
 11. Messages are duplicated
+12. Notifications Problem
