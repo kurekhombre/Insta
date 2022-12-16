@@ -1,4 +1,5 @@
 # Issues / TODO
+1. Notifications Problem
 2. PostgreSQL database instead of sqlite
 3. Direct Messages Frontend
 4. DM with WebSockets (Django Channels + Redis)
@@ -9,4 +10,3 @@
 9. Edit profile (remove required fields and avatar upload issue)
 10. Black theme works only in index.html
 11. Messages are duplicated
-12. Notifications Problem
